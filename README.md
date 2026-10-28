@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**odeioluvadepedreiro/odeioluvadepedreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<sub>M K A W A K A M I</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### código, jogos & outras histórias.
+
+<br>
+
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702050/header.jpg" alt="Saya, de Saya no Uta, em uma paisagem escura com tons de verde" width="600">
+
+<br>
+<br>
+
+<sub>沙耶の唄 &nbsp; / &nbsp; SAYA NO UTA</sub>
+
+<br>
+<br>
+
+Explorando desenvolvimento de jogos com **Godot**.
+
+[projeto godot](https://github.com/odeioluvadepedreiro/projeto-godot) &nbsp; · &nbsp; [extensão godot](https://github.com/odeioluvadepedreiro/Extens-o-Godot) &nbsp; · &nbsp; [repositórios](https://github.com/odeioluvadepedreiro?tab=repositories)
+
+<br>
+
+<sub>aprendendo, experimentando, criando.</sub>
+
+<br>
+
+</div>
