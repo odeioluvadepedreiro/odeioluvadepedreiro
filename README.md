@@ -1,30 +1,25 @@
 <div align="center">
 
-<br>
-
-<sub>M K A W A K A M I</sub>
-
-### código, jogos & outras histórias.
+<img src="./assets/identity.svg" width="100%" alt="Marco Kawakami — Ciência da Computação na UniFil Londrina. 2º de 4 anos de curso.">
 
 <br>
 
-<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702050/header.jpg" alt="Saya, de Saya no Uta, em uma paisagem escura com tons de verde" width="600">
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702050/header.jpg" width="500" alt="Saya — Saya no Uta">
+
+<sub>沙耶の唄 &nbsp; · &nbsp; THE SONG OF SAYA</sub>
 
 <br>
 <br>
 
-<sub>沙耶の唄 &nbsp; / &nbsp; SAYA NO UTA</sub>
+Estudante de **Ciência da Computação** na **UniFil Londrina**.<br>
+<sub>Atualmente no 2º ano de um curso de 4 anos.</sub>
 
 <br>
 <br>
 
-Explorando desenvolvimento de jogos com **Godot**.
+<sub>EXPLORANDO DESENVOLVIMENTO DE JOGOS COM GODOT</sub>
 
-[projeto godot](https://github.com/odeioluvadepedreiro/projeto-godot) &nbsp; · &nbsp; [extensão godot](https://github.com/odeioluvadepedreiro/Extens-o-Godot) &nbsp; · &nbsp; [repositórios](https://github.com/odeioluvadepedreiro?tab=repositories)
-
-<br>
-
-<sub>aprendendo, experimentando, criando.</sub>
+[Projeto Godot](https://github.com/odeioluvadepedreiro/projeto-godot) &nbsp; / &nbsp; [Extensão Godot](https://github.com/odeioluvadepedreiro/Extens-o-Godot) &nbsp; / &nbsp; [Todos os projetos ↗](https://github.com/odeioluvadepedreiro?tab=repositories)
 
 <br>
 
