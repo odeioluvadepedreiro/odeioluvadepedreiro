@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702050/header.jpg" width="500" alt="Saya — Saya no Uta">
+<img src="./download.png" width="500" alt="Ilustração em tons escuros e verdes">
 
 <sub>沙耶の唄 &nbsp; · &nbsp; THE SONG OF SAYA</sub>
 
