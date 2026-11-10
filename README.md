@@ -26,21 +26,51 @@ podem ser aplicados em projetos, além de explorar a criação de jogos digitais
 
 <sub>LINGUAGENS E MARCAÇÃO</sub>
 
-`Java` &nbsp; `HTML` &nbsp; `Portugol` &nbsp; `JavaScript`
+<img src="https://skillicons.dev/icons?i=java,html,js&amp;theme=dark" height="40" alt="Ícones de Java, HTML e JavaScript">
+
+Conhecimentos em **Java**, **HTML**, **Portugol** e **JavaScript**.
 
 <br>
 
-<sub>FOCO DOS ESTUDOS</sub>
+<sub>APRENDENDO ATUALMENTE</sub>
 
-Lógica de programação, programação orientada a objetos e banco de dados.<br>
-Aprendendo na prática com atividades da faculdade e projetos pessoais.
+Aprofundando lógica de programação, orientação a objetos e banco de dados.<br>
+Explorando o desenvolvimento de jogos com Godot e aplicando os estudos em projetos.
+
+<br>
+
+<sub>OBJETIVOS</sub>
+
+Fortalecer minha base em desenvolvimento de software e transformar ideias em projetos.<br>
+Quero aprofundar meus conhecimentos em IA e Machine Learning<br>
+e explorar suas possibilidades no desenvolvimento de jogos digitais.
 
 <br>
 <br>
 
-<sub>EXPLORANDO DESENVOLVIMENTO DE JOGOS COM GODOT</sub>
+<sub>PROJETOS EM DESTAQUE</sub>
 
-[Projeto Godot](https://github.com/odeioluvadepedreiro/projeto-godot) &nbsp; / &nbsp; [Extensão Godot](https://github.com/odeioluvadepedreiro/Extens-o-Godot) &nbsp; / &nbsp; [Todos os projetos ↗](https://github.com/odeioluvadepedreiro?tab=repositories)
+**[Atividade SOLID · Sistema de delivery](https://github.com/odeioluvadepedreiro/atividade-solid)**<br>
+Sistema de delivery em Java com aplicação dos cinco princípios SOLID.<br>
+<sub>Pedidos, pagamentos e notificações simulados no console · Java 17+</sub>
+
+<br>
+
+**[Projeto Godot](https://github.com/odeioluvadepedreiro/projeto-godot)**<br>
+Projeto desenvolvido em Godot, ligado ao meu interesse por jogos digitais.<br>
+<sub>Godot · Desenvolvimento de jogos</sub>
+
+<br>
+
+[Extensão Godot — em preparação](https://github.com/odeioluvadepedreiro/Extens-o-Godot)<br>
+[Todos os projetos ↗](https://github.com/odeioluvadepedreiro?tab=repositories)
+
+<br>
+<br>
+
+<sub>CONTATO</sub>
+
+[marco.kawa.contato@gmail.com](mailto:marco.kawa.contato@gmail.com)
 
 <br>
 
