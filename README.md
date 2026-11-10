@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/identity.svg?v=2" width="100%" alt="Marco Kawakami — Ciência da Computação na UniFil Londrina. Ano 02 de 04.">
+<img src="./assets/profile-header.svg" width="100%" alt="Marco Kawakami — Ciência da Computação na UniFil Londrina. Ano 02 de 04.">
 
 <br>
 <br>
