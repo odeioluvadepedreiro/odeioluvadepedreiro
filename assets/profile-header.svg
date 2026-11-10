@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
+<title id="title">Marco Kawakami</title>
+<desc id="desc">Ciência da Computação na UniFil, Londrina. Segundo ano de quatro. Interesses em inteligência artificial, machine learning e jogos digitais.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111c19"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="line"><stop stop-color="#8fb9a1"/><stop offset="1" stop-color="#8fb9a1" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="999" height="209" rx="18" fill="url(#bg)" stroke="#283b33"/>
+<path d="M40 38h26" stroke="#a8c3ae" stroke-width="3"/>
+<text x="78" y="43" fill="#a8c3ae" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3">CÓDIGO · APRENDIZADO · CRIAÇÃO</text>
+<text x="40" y="109" fill="#edf3ef" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="400" letter-spacing="-1.5">Marco Kawakami</text>
+<text x="43" y="146" fill="#a4b2ac" font-family="Segoe UI,Arial,sans-serif" font-size="18">Ciência da Computação · UniFil Londrina</text>
+<path d="M40 175h620" stroke="url(#line)"/>
+<g transform="translate(850 92)" fill="none" stroke="#a8c3ae">
+<circle r="48" opacity=".12"/><circle r="65" opacity=".08"/>
+<path d="M-22-16l-19 16 19 16M22-16l19 16-19 16M9-27L-9 27" stroke-width="2" opacity=".7"/>
+<circle cx="65" r="3" fill="#a8c3ae" stroke="none"/>
+</g>
+<text x="850" y="184" text-anchor="middle" fill="#a8c3ae" font-family="Consolas,monospace" font-size="13" letter-spacing="2">ANO 02 / 04</text>
+</svg>
