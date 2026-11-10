@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/identity.svg" width="100%" alt="Marco Kawakami — Ciência da Computação na UniFil Londrina. Ano 02 de 04.">
+<img src="./assets/identity.svg?v=2" width="100%" alt="Marco Kawakami — Ciência da Computação na UniFil Londrina. Ano 02 de 04.">
 
 <br>
 <br>
@@ -59,7 +59,7 @@ Desenvolvimento de jogos com **Godot**
 
 <sub>01 &nbsp; / &nbsp; JAVA · SOLID</sub>
 
-<h3><a href="https://github.com/odeioluvadepedreiro/atividade-solid">Sistema de delivery ↗</a></h3>
+<h3><a href="https://github.com/odeioluvadepedreiro/atividade-solid">Sistema de delivery ↗︎</a></h3>
 
 Sistema em Java com aplicação dos cinco princípios SOLID.
 
@@ -72,7 +72,7 @@ Pedidos, pagamentos e notificações simulados no console.
 
 <sub>02 &nbsp; / &nbsp; JOGOS DIGITAIS</sub>
 
-<h3><a href="https://github.com/odeioluvadepedreiro/projeto-godot">Projeto Godot ↗</a></h3>
+<h3><a href="https://github.com/odeioluvadepedreiro/projeto-godot">Projeto Godot ↗︎</a></h3>
 
 Projeto desenvolvido em Godot, ligado ao meu interesse pela criação de jogos digitais.
 
@@ -84,7 +84,7 @@ Projeto desenvolvido em Godot, ligado ao meu interesse pela criação de jogos d
 
 <div align="center">
 
-[Todos os projetos ↗](https://github.com/odeioluvadepedreiro?tab=repositories) &nbsp; · &nbsp; [Extensão Godot — em preparação](https://github.com/odeioluvadepedreiro/Extens-o-Godot)
+[Todos os projetos ↗︎](https://github.com/odeioluvadepedreiro?tab=repositories) &nbsp; · &nbsp; [Extensão Godot — em preparação](https://github.com/odeioluvadepedreiro/Extens-o-Godot)
 
 </div>
 
