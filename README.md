@@ -1,77 +1,108 @@
 <div align="center">
 
-<img src="./assets/identity.svg" width="100%" alt="Marco Kawakami — Ciência da Computação na UniFil Londrina. 2º de 4 anos de curso.">
-
-<br>
-
-<img src="./download.png" width="500" alt="Ilustração em tons escuros e verdes">
+<img src="./assets/identity.svg" width="100%" alt="Marco Kawakami — Ciência da Computação na UniFil Londrina. Ano 02 de 04.">
 
 <br>
 <br>
 
-Estudante de **Ciência da Computação** na **UniFil Londrina**.<br>
-<sub>Atualmente no 2º ano de um curso de 4 anos.</sub>
+<img src="./download.png" width="480" alt="Ilustração em tons escuros e verdes">
 
 <br>
 <br>
 
-<sub>INTERESSES</sub>
-
-**Inteligência Artificial** &nbsp; / &nbsp; **Machine Learning** &nbsp; / &nbsp; **Jogos Digitais**
-
-Tenho interesse em aprender como a inteligência artificial e o aprendizado de máquina<br>
-podem ser aplicados em projetos, além de explorar a criação de jogos digitais.
+<sub>INTELIGÊNCIA ARTIFICIAL &nbsp; · &nbsp; MACHINE LEARNING &nbsp; · &nbsp; JOGOS DIGITAIS</sub>
 
 <br>
 
-<sub>LINGUAGENS E MARCAÇÃO</sub>
+[Sobre mim](#sobre-mim) &nbsp; / &nbsp; [Tecnologias](#tecnologias) &nbsp; / &nbsp; [Projetos](#projetos) &nbsp; / &nbsp; [Contato](#contato)
 
-<img src="https://skillicons.dev/icons?i=java,html,js&amp;theme=dark" height="40" alt="Ícones de Java, HTML e JavaScript">
+</div>
 
-Conhecimentos em **Java**, **HTML**, **Portugol** e **JavaScript**.
+---
+
+### Sobre mim
+
+Sou estudante de **Ciência da Computação na UniFil Londrina**, atualmente no **2º ano de um curso de 4 anos**. Aprendo na prática com atividades da faculdade e projetos pessoais.
+
+Tenho interesse em **Inteligência Artificial**, **Machine Learning** e **Jogos Digitais**. Quero transformar ideias em projetos e explorar como essas áreas podem se conectar.
 
 <br>
 
-<sub>APRENDENDO ATUALMENTE</sub>
+### Tecnologias
 
-Aprofundando lógica de programação, orientação a objetos e banco de dados.<br>
-Explorando o desenvolvimento de jogos com Godot e aplicando os estudos em projetos.
+<div align="center">
 
-<br>
-
-<sub>OBJETIVOS</sub>
-
-Fortalecer minha base em desenvolvimento de software e transformar ideias em projetos.<br>
-Quero aprofundar meus conhecimentos em IA e Machine Learning<br>
-e explorar suas possibilidades no desenvolvimento de jogos digitais.
+<img src="https://skillicons.dev/icons?i=java,html,js&amp;theme=dark" height="44" alt="Java, HTML e JavaScript">
 
 <br>
 <br>
 
-<sub>PROJETOS EM DESTAQUE</sub>
-
-**[Atividade SOLID · Sistema de delivery](https://github.com/odeioluvadepedreiro/atividade-solid)**<br>
-Sistema de delivery em Java com aplicação dos cinco princípios SOLID.<br>
-<sub>Pedidos, pagamentos e notificações simulados no console · Java 17+</sub>
-
-<br>
-
-**[Projeto Godot](https://github.com/odeioluvadepedreiro/projeto-godot)**<br>
-Projeto desenvolvido em Godot, ligado ao meu interesse por jogos digitais.<br>
-<sub>Godot · Desenvolvimento de jogos</sub>
-
-<br>
-
-[Extensão Godot — em preparação](https://github.com/odeioluvadepedreiro/Extens-o-Godot)<br>
-[Todos os projetos ↗](https://github.com/odeioluvadepedreiro?tab=repositories)
+<code>Java</code> &nbsp; <code>HTML</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Portugol</code>
 
 <br>
 <br>
 
-<sub>CONTATO</sub>
+<sub>EM APRENDIZADO</sub>
 
-[marco.kawa.contato@gmail.com](mailto:marco.kawa.contato@gmail.com)
+Lógica de programação &nbsp; · &nbsp; Orientação a objetos &nbsp; · &nbsp; Banco de dados<br>
+Desenvolvimento de jogos com **Godot**
+
+</div>
 
 <br>
+
+### Projetos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<sub>01 &nbsp; / &nbsp; JAVA · SOLID</sub>
+
+<h3><a href="https://github.com/odeioluvadepedreiro/atividade-solid">Sistema de delivery ↗</a></h3>
+
+Sistema em Java com aplicação dos cinco princípios SOLID.
+
+Pedidos, pagamentos e notificações simulados no console.
+
+<code>Java 17+</code> &nbsp; <code>Orientação a objetos</code>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>02 &nbsp; / &nbsp; JOGOS DIGITAIS</sub>
+
+<h3><a href="https://github.com/odeioluvadepedreiro/projeto-godot">Projeto Godot ↗</a></h3>
+
+Projeto desenvolvido em Godot, ligado ao meu interesse pela criação de jogos digitais.
+
+<code>Godot</code> &nbsp; <code>Jogos</code>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[Todos os projetos ↗](https://github.com/odeioluvadepedreiro?tab=repositories) &nbsp; · &nbsp; [Extensão Godot — em preparação](https://github.com/odeioluvadepedreiro/Extens-o-Godot)
+
+</div>
+
+<br>
+
+### Contato
+
+<div align="center">
+
+<sub>VAMOS CONVERSAR SOBRE TECNOLOGIA E PROJETOS</sub>
+
+<br>
+<br>
+
+**[marco.kawa.contato@gmail.com](mailto:marco.kawa.contato@gmail.com)**
+
+<br>
+
+<img src="./assets/footer.svg" width="100%" alt="Detalhe decorativo em verde">
 
 </div>
